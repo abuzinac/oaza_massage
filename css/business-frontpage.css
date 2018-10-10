@@ -1,0 +1,64 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  font-family: "Kalam", cursive, sans-serif;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.navbar-brand {
+  font-size: 24px;
+}
+
+.business-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('../assets/img/header/banner-massage.png') right center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.card {
+  height: 100%;
+}
+
+.btn_home {
+  background-color: #343A40;
+  border: none;
+}
+
+.btn_home:hover{
+  text-decoration: none;
+  background-color: #172120;
+  border: none;
+}
+
+.email_home {
+  text-decoration: none;
+  color: #282529;
+}
+
+.email_home:hover {
+  text-decoration: none;
+  font-weight: 700;
+  color: #282529;
+}
+
+.nav-item:hover {
+  font-weight: 700;
+}
+
+.card-img-top {
+  height: 230px;
+}
